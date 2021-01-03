@@ -24,6 +24,7 @@ Below are screen shots of pop ups showing the execution times - for each year - 
 ### 2017 Refactored Script Execution Time
 ![](Resources/VBA_Challenge_2017.png)
 
+
 ### 2018 Original Script Execution Time
 ![](Resources/Original_Execution_2018.png)
 
