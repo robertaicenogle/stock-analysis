@@ -1,4 +1,4 @@
-# stock-analysis
+# Stock-Analysis
 
 ## Overview of Project
 Explain the purpose of this analysis.
