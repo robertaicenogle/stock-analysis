@@ -55,8 +55,4 @@ Below are screen shots of pop ups showing the execution times - for each year - 
 
 One of the main goals of this project was to start with an intial script, and then to refactor it to improve the execution time of the script. In general, refactoriing code has the advantage of improving execution time. Refactoring - making the code more efficient by taking fewer steps, using less memory, or improving the logic of the code - improves efficiency. The result is a code that is easier for future users to read and runs faster. The disadvantage is the time and effort required to refactor the script - often the code can't be amended, and has to be re-created from scratch.
 
-For this project specifically, execution time was significantly reduced (although the initial run time was less than a second pros and cons apply to refactoring the original VBA script?
-
-
-There is a detailed statement on the advantages and disadvantages of refactoring code in general.
-There is a detailed statement on the advantages and disadvantages of the original and refactored VBA script.
+For this project specifically, the execution time of the refactored script ran 4 to 5 times less than the original script. That's a significant improvement, comparatively. The downside is that this script took less than a second to run (for both the original and refactored versions), so the overall improvement was relatively insignificant. However, from a big picture perspective, refactoring is a very important process. If we were working on a longer, more time intensive script, or one that required a high number of macros to be run, then a significant reduction in execution time could be much more meaningful.
