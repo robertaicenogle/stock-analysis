@@ -18,16 +18,16 @@ Below you can see the stock performances for 2017 and 2018. Overall, green stock
 ### Execution Times
 Below are screen shots of pop ups showing the execution times - for each year - of the original scripts versus the refactored scripts. As you can see, the refactored script had significantly lower execution times, compared to the original script.
 
-### Execution Time - 2017 Original Script
+### 2017 Original Script Execution Time
 ![](Resources/Original_Execution_2017.png)
 
-### Execution Time - 2017 Refactored Script
+### 2017 Refactored Script Execution Time
 ![](Resources/VBA_Challenge_2017.png)
 
-### Execution Time - 2018 Original Script
+### 2018 Original Script Execution Time
 ![](Resources/Original_Execution_2018.png)
 
-### Execution Time - 2018 Refactored Script
+### 2018 Refactored Script Execution Time
 ![](Resources/VBA_Challenge_2018.png)
 
 ### Summary
