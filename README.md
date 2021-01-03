@@ -7,12 +7,19 @@ The purpose of this project is to analyze a group of green energy stocks, all in
 For reference, the refactored script I used is as follows. Comments are added to indicate the output/intended results of each specific code sequence.
 
 ![](Resources/Refactored_Code_1.png)
+
 ![](Resources/Refactored_Code_2.png)
+
 ![](Resources/Refactored_Code_3.png)
+
 ![](Resources/Refactored_Code_4.png)
+
 ![](Resources/Refactored_Code_5.png)
+
 ![](Resources/Refactored_Code_6.png)
+
 ![](Resources/Refactored_Code_7.png)
+
 ![](Resources/Refactored_Code_8.png)
 
 
