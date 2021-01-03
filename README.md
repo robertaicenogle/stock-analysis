@@ -10,13 +10,17 @@ Using images and examples of your code, compare the stock performance between 20
 ### Stock Performances 2017
 ![](Resources/VBA_Output_2017.png)
 
+### Execution Time - 2017 Original Script
+![](Resources/Original_Execution_2017.png)
+
 ### Execution Time - 2017 Refactored Script
 ![](Resources/VBA_Challenge_2017.png)
 
-
-
 ### Stock Performances 2018
 ![](Resources/VBA_Output_2018.png)
+
+### Execution Time - 2018 Original Script
+![](Resources/Original_Execution_2018.png)
 
 ### Execution Time - 2018 Refactored Script
 ![](Resources/VBA_Challenge_2018.png)
